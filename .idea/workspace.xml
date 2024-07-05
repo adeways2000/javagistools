@@ -12,29 +12,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51572bf9-6665-43a9-9545-d46ad81e6759" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/javagistool_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/javagistool_jar/javagistool.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/geotools/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/geotools/fileloader/CRSLab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/geotools/fileloader/Csv2Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/geotools/fileloader/GeometryType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/geotools/fileloader/ImageTileGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/geotools/fileloader/QueryGeoTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/geotools/fileloader/QueryLab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/geotools/fileloader/SelectionLab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/geotools/fileloader/ShapFileImport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/geotools/fileloader/ShpFileLoad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/geotools/fileloader/StyleLab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/geotools/AppTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="51572bf9-6665-43a9-9545-d46ad81e6759" name="Changes" comment="Java &amp; Java Swing |GIS GeoTools GDAL OGR|PostGIS PostgreSQL&#10;Technology &amp; Tools used:&#10;1.intelliJ IDEA IDE, Maven building Tool&#10;2.Java and Java Swing &#10;3.GeoTools and GDAL in Java libraries&#10;4.ESRI ShapeFile and other vectors data formats&#10;5.Web Map server as like GeoServer&#10;6.Geospatial development software development frameworks and libraries&#10;7.Geospatial database (PostGIS, SpatiaLite database)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,6 +108,15 @@
       <option name="presentableId" value="Default" />
       <updated>1718230730090</updated>
     </task>
+    <task id="LOCAL-00001" summary="Java &amp; Java Swing |GIS GeoTools GDAL OGR|PostGIS PostgreSQL&#10;Technology &amp; Tools used:&#10;1.intelliJ IDEA IDE, Maven building Tool&#10;2.Java and Java Swing &#10;3.GeoTools and GDAL in Java libraries&#10;4.ESRI ShapeFile and other vectors data formats&#10;5.Web Map server as like GeoServer&#10;6.Geospatial development software development frameworks and libraries&#10;7.Geospatial database (PostGIS, SpatiaLite database)">
+      <option name="closed" value="true" />
+      <created>1720145733069</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720145733069</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +132,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Java &amp; Java Swing |GIS GeoTools GDAL OGR|PostGIS PostgreSQL&#10;Technology &amp; Tools used:&#10;1.intelliJ IDEA IDE, Maven building Tool&#10;2.Java and Java Swing &#10;3.GeoTools and GDAL in Java libraries&#10;4.ESRI ShapeFile and other vectors data formats&#10;5.Web Map server as like GeoServer&#10;6.Geospatial development software development frameworks and libraries&#10;7.Geospatial database (PostGIS, SpatiaLite database)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java &amp; Java Swing |GIS GeoTools GDAL OGR|PostGIS PostgreSQL&#10;Technology &amp; Tools used:&#10;1.intelliJ IDEA IDE, Maven building Tool&#10;2.Java and Java Swing &#10;3.GeoTools and GDAL in Java libraries&#10;4.ESRI ShapeFile and other vectors data formats&#10;5.Web Map server as like GeoServer&#10;6.Geospatial development software development frameworks and libraries&#10;7.Geospatial database (PostGIS, SpatiaLite database)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/javagistool$StyleLab.ic" NAME="StyleLab Coverage Results" MODIFIED="1718438231869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
